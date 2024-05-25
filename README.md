@@ -155,7 +155,7 @@ Github: https://github.com/Reitc
 
 Helene:
 <br>
-Email:
+Email: hmlm56862@edu.ucl.dk
 <br>
 Github: https://github.com/Zentia-DK
 
